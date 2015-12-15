@@ -1,0 +1,14 @@
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\TFSTaskCreator.exe.config
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\TFSTaskCreator.exe
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\TFSTaskCreator.pdb
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+D:\War Room\TFSTaskCreator\TFSTaskCreator\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+D:\War Room\TFSTaskCreator\TFSTaskCreator\obj\Debug\TFSTaskCreator.Form1.resources
+D:\War Room\TFSTaskCreator\TFSTaskCreator\obj\Debug\TFSTaskCreator.Properties.Resources.resources
+D:\War Room\TFSTaskCreator\TFSTaskCreator\obj\Debug\TFSTaskCreator.csproj.GenerateResource.Cache
+D:\War Room\TFSTaskCreator\TFSTaskCreator\obj\Debug\TFSTaskCreator.exe
+D:\War Room\TFSTaskCreator\TFSTaskCreator\obj\Debug\TFSTaskCreator.pdb
+D:\War Room\Git\TFSTaskCreator\bin\Debug\TFSTaskCreator.exe.config
+D:\War Room\Git\TFSTaskCreator\obj\Debug\TFSTaskCreator.exe
+D:\War Room\Git\TFSTaskCreator\obj\Debug\TFSTaskCreator.pdb
