@@ -1,7 +1,51 @@
-# Tfs auto task creator :
+🚀 TFS Auto Task Creator
 
-While working in Agile, we normally have sprint of 2 or 3 weeks. 
-So at the start of each sprint we need to create tasks for each PBI. Some standard task are common across all PBI. So I thought of automating that using TFS C# Api. So this utility will help you to create these automatically.
+A productivity-focused automation tool built using C# and TFS APIs to streamline sprint planning by automatically generating standard tasks for each Product Backlog Item (PBI).
 
-#How it works?
-This will work in 2 modes. One is through command line or through windows form application. If you provide command line input which should be PBI Id in tfs, then it will validate PBI and create task under it. Another way is windows form application, if you don’t provide any command link argument then form application will be launched and you will get basic UI for entering PBI Id. 
+💡 Overview
+
+In Agile teams, every sprint requires manually creating a set of common tasks under each PBI (e.g., development, testing, code review). This repetitive process is time-consuming and prone to inconsistencies.
+
+This tool eliminates that overhead by automating task creation, ensuring consistency and saving valuable engineering time during sprint planning.
+
+⚙️ How It Works
+
+The tool supports two flexible modes:
+
+🖥️ Command-Line Mode
+Accepts a PBI ID as input
+Validates the PBI in TFS
+Automatically creates predefined standard tasks under the PBI
+🪟 Windows Form UI
+Simple user interface for entering PBI ID
+Useful for non-technical users or quick manual execution
+No command-line input required
+✨ Key Features
+Automated creation of standard sprint tasks
+Supports both CLI and UI-based workflows
+Ensures consistency across all PBIs
+Reduces manual errors in task setup
+Easy integration with existing TFS workflows
+📊 Impact
+⏱️ Saves significant time during sprint planning (especially for large teams)
+📈 Improves team productivity by removing repetitive work
+✅ Ensures standardized task structure across all PBIs
+🔁 Reduces human error and missed steps
+🛠️ Tech Stack
+C#
+TFS API (Team Foundation Server)
+Windows Forms
+🎯 Use Case
+
+Ideal for Agile teams using TFS/Azure DevOps who want to:
+
+Speed up sprint planning
+Maintain consistency in task breakdown
+Automate repetitive engineering workflows
+💬 Why This Matters
+
+This project demonstrates:
+
+Practical automation in real-world Agile workflows
+Strong understanding of developer productivity challenges
+Ability to build tools that improve team efficiency at scale
